@@ -4,7 +4,7 @@ This is my NFT Project, in which I was tasked to deploy an NFT collection on the
 Installation
 To get started with the project, follow these steps:
 
-clone this repository : git clone https://github.com/Palakkkkkkkkkk/METACRAFTERS-POLYGON-MODULE-1.git
+clone this repository : https://github.com/Kushank-chauhan/polygon-module-1/edit/main/README.md
 
 Install the required dependencies : npm install
 
